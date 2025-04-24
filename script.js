@@ -50,7 +50,7 @@ const quizData = [
   {
     question: "おとには公式ラインがある？",
     choices: ["ある", "ない", "複数ある"],
-    answer: 1
+    answer: 0
   },
   {
     question: "おとの今曲は？？",
